@@ -1,11 +1,11 @@
 ---
-title: "Contact"
+title: "Contacto"
 weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}}&nbsp;[mail@janedoe.com](mailto:your-email@your-domain.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[administrador@zonazerotattoo.com](mailto:administrador@zonazerotatto.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[696 339 803](tel:696 339 803)
 
-Let us get in touch!
+Estamos en contacto!
